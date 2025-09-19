@@ -1,14 +1,11 @@
 # Memories
 
-This repository holds **project-specific notes** ("memories") that provide
-long-lived context when working with AI assistants.  
-Each project gets its own Markdown file (e.g. `how_to_commit_fraud.md`, `embarassing_medicals.md`) that
-captures background information, design notes, or anything else you want to
-carry across sessions.
+This repository holds **project-specific notes** ("memories") that provide long-lived context when working with AI assistants.  
+Each project gets its own Markdown file (e.g. `how_to_commit_fraud.md`, `embarassing_medicals.md`) thatcaptures background information, design notes, or anything else you want to carry across sessions.
 
-Temporary **pointer files** are generated locally and uploaded into a project
-chat. These pointers tell the assistant which memory file to look at in this
-repo, so you don’t have to paste notes or maintain long-term context manually.
+Temporary **pointer files** are generated locally and uploaded into a project chat. These pointers tell the assistant which memory file to look at in this repo, so you don’t have to paste notes or maintain long-term context manually.
+
+*N.B.* This is very much tailored for my own use
 
 ---
 
