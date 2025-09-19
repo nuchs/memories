@@ -2,6 +2,8 @@
 v1 — 2025-09-19
 
 ## Context
+This project is about the go programming language
+
 I am an experienced developer
 I like understanding how things work and why they work that way
 I primarily work with c#
